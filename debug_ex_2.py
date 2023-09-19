@@ -1,4 +1,4 @@
-
+ 
 
 def encode(text, key):
     cipher = make_cipher(key)
